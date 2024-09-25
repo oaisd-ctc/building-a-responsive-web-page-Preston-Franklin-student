@@ -4,7 +4,7 @@
     justify-content:space-around;
     margin-bottom:10px;
     border:solid #8910aa 5px;
-    flex-direction:row
+    flex-direction:row;
 }
 .container > div{
     padding:25px;
